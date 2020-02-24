@@ -20,4 +20,4 @@ La première permutation étant évidemment:
 "Paris! Paris #liste1#! Paris #liste2#! Paris #liste3#! Mais Paris #liste4#!
 ```
 
-Il suffit juste de générer les 23 autres permutations (c'est à dire la factorielle de 4: `4!`)
+Il suffit juste de générer les 23 autres permutations (24 permutations totales, c'est à dire la factorielle de 4: `4!`)
